@@ -1,0 +1,186 @@
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll.config
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.pdb
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.dll
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.dll
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.dll
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.dll
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.dll
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.dll
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.dll
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\WebGrease.dll
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.xml
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.xml
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.xml
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.xml
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.xml
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.pdb
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.xml
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+D:\Dębowski Krzysztof\Lab\Pro1\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+D:\Dębowski Krzysztof\ContosoUniversity\bin\ContosoUniversity.dll.config
+D:\Dębowski Krzysztof\ContosoUniversity\bin\ContosoUniversity.dll
+D:\Dębowski Krzysztof\ContosoUniversity\bin\ContosoUniversity.pdb
+D:\Dębowski Krzysztof\ContosoUniversity\bin\Antlr3.Runtime.dll
+D:\Dębowski Krzysztof\ContosoUniversity\bin\EntityFramework.dll
+D:\Dębowski Krzysztof\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+D:\Dębowski Krzysztof\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+D:\Dębowski Krzysztof\ContosoUniversity\bin\Newtonsoft.Json.dll
+D:\Dębowski Krzysztof\ContosoUniversity\bin\System.Web.Mvc.dll
+D:\Dębowski Krzysztof\ContosoUniversity\bin\EntityFramework.xml
+D:\Dębowski Krzysztof\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+D:\Dębowski Krzysztof\ContosoUniversity\bin\System.Web.Helpers.xml
+D:\Dębowski Krzysztof\ContosoUniversity\bin\System.Web.Mvc.xml
+D:\Dębowski Krzysztof\ContosoUniversity\bin\System.Web.Optimization.xml
+D:\Dębowski Krzysztof\ContosoUniversity\bin\System.Web.Razor.xml
+D:\Dębowski Krzysztof\ContosoUniversity\bin\System.Web.WebPages.xml
+D:\Dębowski Krzysztof\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+D:\Dębowski Krzysztof\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+D:\Dębowski Krzysztof\ContosoUniversity\bin\Antlr3.Runtime.pdb
+D:\Dębowski Krzysztof\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+D:\Dębowski Krzysztof\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+D:\Dębowski Krzysztof\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+D:\Dębowski Krzysztof\ContosoUniversity\bin\System.Web.Helpers.dll
+D:\Dębowski Krzysztof\ContosoUniversity\bin\System.Web.Optimization.dll
+D:\Dębowski Krzysztof\ContosoUniversity\bin\System.Web.Razor.dll
+D:\Dębowski Krzysztof\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+D:\Dębowski Krzysztof\ContosoUniversity\bin\System.Web.WebPages.dll
+D:\Dębowski Krzysztof\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+D:\Dębowski Krzysztof\ContosoUniversity\bin\WebGrease.dll
+D:\Dębowski Krzysztof\ContosoUniversity\bin\Newtonsoft.Json.xml
+F:\Szkoła\Visual\ContosoUniversity\bin\ContosoUniversity.dll.config
+F:\Szkoła\Visual\ContosoUniversity\bin\ContosoUniversity.dll
+F:\Szkoła\Visual\ContosoUniversity\bin\ContosoUniversity.pdb
+F:\Szkoła\Visual\ContosoUniversity\bin\Antlr3.Runtime.dll
+F:\Szkoła\Visual\ContosoUniversity\bin\EntityFramework.dll
+F:\Szkoła\Visual\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+F:\Szkoła\Visual\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+F:\Szkoła\Visual\ContosoUniversity\bin\Newtonsoft.Json.dll
+F:\Szkoła\Visual\ContosoUniversity\bin\System.Web.Helpers.dll
+F:\Szkoła\Visual\ContosoUniversity\bin\System.Web.Mvc.dll
+F:\Szkoła\Visual\ContosoUniversity\bin\System.Web.Optimization.dll
+F:\Szkoła\Visual\ContosoUniversity\bin\System.Web.Razor.dll
+F:\Szkoła\Visual\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+F:\Szkoła\Visual\ContosoUniversity\bin\System.Web.WebPages.dll
+F:\Szkoła\Visual\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+F:\Szkoła\Visual\ContosoUniversity\bin\WebGrease.dll
+F:\Szkoła\Visual\ContosoUniversity\bin\EntityFramework.xml
+F:\Szkoła\Visual\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+F:\Szkoła\Visual\ContosoUniversity\bin\System.Web.Helpers.xml
+F:\Szkoła\Visual\ContosoUniversity\bin\System.Web.Mvc.xml
+F:\Szkoła\Visual\ContosoUniversity\bin\System.Web.Optimization.xml
+F:\Szkoła\Visual\ContosoUniversity\bin\System.Web.Razor.xml
+F:\Szkoła\Visual\ContosoUniversity\bin\System.Web.WebPages.xml
+F:\Szkoła\Visual\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+F:\Szkoła\Visual\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+F:\Szkoła\Visual\ContosoUniversity\bin\Antlr3.Runtime.pdb
+F:\Szkoła\Visual\ContosoUniversity\bin\Newtonsoft.Json.xml
+F:\Szkoła\Visual\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+F:\Szkoła\Visual\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+F:\Szkoła\Visual\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+F:\Szkoła\Visual\ContosoUniversity\bin\PagedList.dll
+F:\Szkoła\Visual\ContosoUniversity\bin\PagedList.Mvc.dll
+F:\Szkoła\Visual\ContosoUniversity\bin\PagedList.xml
+F:\Szkoła\Visual\ContosoUniversity\bin\PagedList.Mvc.xml
+D:\Krzysztof Dębowski\ContosoUniversity\bin\ContosoUniversity.dll.config
+D:\Krzysztof Dębowski\ContosoUniversity\bin\ContosoUniversity.dll
+D:\Krzysztof Dębowski\ContosoUniversity\bin\ContosoUniversity.pdb
+D:\Krzysztof Dębowski\ContosoUniversity\bin\Antlr3.Runtime.dll
+D:\Krzysztof Dębowski\ContosoUniversity\bin\EntityFramework.dll
+D:\Krzysztof Dębowski\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+D:\Krzysztof Dębowski\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+D:\Krzysztof Dębowski\ContosoUniversity\bin\Newtonsoft.Json.dll
+D:\Krzysztof Dębowski\ContosoUniversity\bin\PagedList.dll
+D:\Krzysztof Dębowski\ContosoUniversity\bin\PagedList.Mvc.dll
+D:\Krzysztof Dębowski\ContosoUniversity\bin\System.Web.Helpers.dll
+D:\Krzysztof Dębowski\ContosoUniversity\bin\System.Web.Mvc.dll
+D:\Krzysztof Dębowski\ContosoUniversity\bin\System.Web.Optimization.dll
+D:\Krzysztof Dębowski\ContosoUniversity\bin\System.Web.Razor.dll
+D:\Krzysztof Dębowski\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+D:\Krzysztof Dębowski\ContosoUniversity\bin\System.Web.WebPages.dll
+D:\Krzysztof Dębowski\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+D:\Krzysztof Dębowski\ContosoUniversity\bin\WebGrease.dll
+D:\Krzysztof Dębowski\ContosoUniversity\bin\EntityFramework.xml
+D:\Krzysztof Dębowski\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+D:\Krzysztof Dębowski\ContosoUniversity\bin\PagedList.xml
+D:\Krzysztof Dębowski\ContosoUniversity\bin\PagedList.Mvc.xml
+D:\Krzysztof Dębowski\ContosoUniversity\bin\System.Web.Helpers.xml
+D:\Krzysztof Dębowski\ContosoUniversity\bin\System.Web.Mvc.xml
+D:\Krzysztof Dębowski\ContosoUniversity\bin\System.Web.Optimization.xml
+D:\Krzysztof Dębowski\ContosoUniversity\bin\System.Web.Razor.xml
+D:\Krzysztof Dębowski\ContosoUniversity\bin\System.Web.WebPages.xml
+D:\Krzysztof Dębowski\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+D:\Krzysztof Dębowski\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+D:\Krzysztof Dębowski\ContosoUniversity\bin\Antlr3.Runtime.pdb
+D:\Krzysztof Dębowski\ContosoUniversity\bin\Newtonsoft.Json.xml
+D:\Krzysztof Dębowski\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+D:\Krzysztof Dębowski\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+D:\Krzysztof Dębowski\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+D:\Krzysztof Dębowski\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+D:\Krzysztof Dębowski\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+D:\Krzysztof Dębowski\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+D:\Krzysztof Dębowski\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
+D:\Krzysztof Dębowski\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+D:\Krzysztof Dębowski\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
+D:\Krzysztof Dębowski\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+D:\Krzysztof Dębowski\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
+F:\Szkoła\Visual\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+F:\Szkoła\Visual\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+F:\Szkoła\Visual\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
+F:\Szkoła\Visual\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+F:\Szkoła\Visual\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
+F:\Szkoła\Visual\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+F:\Szkoła\Visual\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
+F:\Szkoła\Visual\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\ContosoUniversity.dll.config
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\ContosoUniversity.dll
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\ContosoUniversity.pdb
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\Antlr3.Runtime.dll
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\EntityFramework.dll
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\Newtonsoft.Json.dll
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\PagedList.dll
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\PagedList.Mvc.dll
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\System.Web.Helpers.dll
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\System.Web.Mvc.dll
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\System.Web.Optimization.dll
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\System.Web.Razor.dll
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\System.Web.WebPages.dll
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\WebGrease.dll
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\EntityFramework.xml
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\PagedList.xml
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\PagedList.Mvc.xml
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\System.Web.Helpers.xml
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\System.Web.Mvc.xml
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\System.Web.Optimization.xml
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\System.Web.Razor.xml
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\System.Web.WebPages.xml
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\Antlr3.Runtime.pdb
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\bin\Newtonsoft.Json.xml
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+F:\Uczelnia\Szkoła\CT\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
